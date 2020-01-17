@@ -1,7 +1,7 @@
 Hello and welcome to my blog!
 
-![Image of fast.ai logo](images/logo.png)
+![Me, enjoying life!](images/1595-12.jpeg)
 
-## This is a title
+## Why another Blog?
 
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file.
+Well, I just want to try this cool tool from Jeremy Howard & Fast.ai which he posted here. But on the other hand, I set myself the goal to start blogging, so here we are ;)
